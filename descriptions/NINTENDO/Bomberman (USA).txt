@@ -1,0 +1,4 @@
+Bomberman  es un videojuego de estilo arcade-estratégico desarrollado por Hudson Soft. El juego original Bomber Man  fue lanzado en 1983 para MSX, NEC PC-8801, NEC PC-6001, Sharp MZ-700 y FM-7 en Japón. En 1984 se lanzó una versión censurada del juego específicamente para MSX y ZX Spectrum en Europa bajo el título Eric and the Floaters.
+Tuvo una secuela en Japón conocida como 3-D Bomberman, en la que el personaje recorre el laberinto en primera persona. En 1985 fue rediseñado y adaptado para Family Computer. Este juego es el primero de la saga Bomberman y dio lugar a una serie de secuelas basadas en su propio sistema de juego.
+
+Fuente: Wikipedia

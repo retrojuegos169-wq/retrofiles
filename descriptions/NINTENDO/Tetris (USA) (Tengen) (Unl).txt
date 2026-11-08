@@ -1,0 +1,3 @@
+Tetris es un videojuego de lógica soviético originalmente diseñado y programado por Alekséi Pázhitnov. Se publicó el 6 de junio de 1984, mientras trabajaba para la Academia de Ciencias de la Unión Soviética en Moscú, RSFS de Rusia. Su nombre deriva del prefijo numérico griego tetra- (cuatro), ya que todas las piezas del juego, conocidas como tetrominós, contienen cuatro segmentos y, del tenis, el deporte favorito de Pázhitnov.
+
+Fuente: Wikipedia
