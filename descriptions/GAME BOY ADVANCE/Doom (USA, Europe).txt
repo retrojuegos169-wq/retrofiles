@@ -1,0 +1,3 @@
+Doom es un videojuego de disparos en primera persona desarrollado y publicado por id Software. Lanzado el 10 de diciembre de 1993 para DOS, es la primera entrega de la franquicia Doom. El jugador asume el papel de un marine espacial, más tarde conocido extraoficialmente como Doomguy, que lucha contra hordas de humanos no muertos y demonios invasores. El juego comienza en las lunas de Marte y termina en el infierno, y el jugador atraviesa cada nivel para encontrar la salida o derrotar a su jefe final. Es un ejemplo temprano de gráficos "3D" en videojuegos y tiene enemigos y objetos como imágenes 2D en formato de sprites, una técnica a veces denominada gráficos 2.5D.
+
+Fuente: Wikipedia

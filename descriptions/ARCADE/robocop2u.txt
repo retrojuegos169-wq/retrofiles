@@ -1,0 +1,2 @@
+RoboCop 2 Es un juego de acción de tipo run and gun (disparar y avanzar) con elementos de plataformas y combate cuerpo a cuerpo.
+RoboCop debe detener al narcotraficante Caín (Kan), quien distribuye una peligrosa droga llamada Nuke por las calles de Detroit, y enfrentarse finalmente al corrupto robot enemigo.

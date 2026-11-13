@@ -16,8 +16,7 @@ if (-not $romsDir) {
     exit 1
 }
 $coversDir = Find-Folder "covers"
-$snapsDir = Find-Folder "snaps"
-$descDir = Find-Folder "descriptions"
+$coversName = if ($coversDir) { $coversDir.Name } else { "COVERS" }
 
 # Fechas de los juegos que ya estaban en el catalogo anterior
 $catalogPath = Join-Path $root "catalog.json"
@@ -35,13 +34,11 @@ $today = (Get-Date).ToString("yyyy-MM-dd")
 $games = @()
 $newCount = 0
 $noCover = @()
-$noSnap = @()
-$noDesc = @()
 
-function Has-Any($dir, $system, $base, $suffixes) {
-    if (-not $dir) { return $false }
-    foreach ($s in $suffixes) {
-        if (Test-Path (Join-Path (Join-Path $dir.FullName $system) ($base + $s))) { return $true }
+function Has-Cover($system, $base) {
+    if (-not $coversDir) { return $false }
+    foreach ($ext in @(".png", ".jpg", ".jpeg", ".webp")) {
+        if (Test-Path (Join-Path (Join-Path $coversDir.FullName $system) ($base + $ext))) { return $true }
     }
     return $false
 }
@@ -71,9 +68,9 @@ foreach ($consoleDir in (Get-ChildItem -Path $romsDir.FullName -Directory | Sort
         }
 
         $base = [System.IO.Path]::GetFileNameWithoutExtension($file.Name)
-        if (-not (Has-Any $coversDir $consoleDir.Name $base @(".png", ".jpg", ".jpeg", ".webp"))) { $noCover += $path }
-        if (-not (Has-Any $snapsDir $consoleDir.Name $base @(".snap.png"))) { $noSnap += $path }
-        if (-not (Has-Any $descDir $consoleDir.Name $base @(".txt"))) { $noDesc += $path }
+        if (-not (Has-Cover $consoleDir.Name $base)) {
+            $noCover += "$coversName/$($consoleDir.Name)/$base.png"
+        }
     }
 }
 
@@ -87,20 +84,12 @@ $catalog = [pscustomobject]@{
 $json = $catalog | ConvertTo-Json -Depth 5
 [System.IO.File]::WriteAllText($catalogPath, $json, (New-Object System.Text.UTF8Encoding $false))
 
-# Lista de lo que falta, para completarlo
-$report = @()
-$report += "SIN PORTADA ($($noCover.Count))"
+# Portadas que faltan, con el nombre exacto que deben tener
+$report = @("PORTADAS QUE FALTAN ($($noCover.Count)). Crea cada archivo con este nombre (.png, .jpg o .webp):", "")
 $report += $noCover
-$report += ""
-$report += "SIN CAPTURA ($($noSnap.Count))"
-$report += $noSnap
-$report += ""
-$report += "SIN DESCRIPCION ($($noDesc.Count))"
-$report += $noDesc
 [System.IO.File]::WriteAllLines((Join-Path $root "catalogo-faltantes.txt"), $report, (New-Object System.Text.UTF8Encoding $false))
 
 Write-Host ""
 Write-Host "Listo: $($games.Count) juegos en el catalogo ($newCount nuevos, $($removed.Count) quitados)."
-Write-Host "Sin portada: $($noCover.Count) | sin captura: $($noSnap.Count) | sin descripcion: $($noDesc.Count)"
-Write-Host "Archivos creados: catalog.json y catalogo-faltantes.txt"
+Write-Host "Juegos sin portada propia: $($noCover.Count) (ver catalogo-faltantes.txt)"
 Read-Host "Pulsa Enter para cerrar"

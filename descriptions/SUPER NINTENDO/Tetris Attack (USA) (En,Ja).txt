@@ -1,0 +1,3 @@
+Tetris Attack, es un videojuego de rompecabezas de 1995 desarrollado por Intelligent Systems y publicado por Nintendo para el Super Nintendo Entertainment System. Una versión de Game Boy fue lanzada un año después. En el juego, el jugador debe organizar bloques de colores coincidentes en filas verticales u horizontales para eliminarlos. Los bloques se elevan constantemente hacia la parte superior del campo de juego, y se agregan nuevos bloques en la parte inferior. Existen varios modos de juego, incluido un modo de ataque de tiempo y multijugador.
+
+Fuente: Wikipedia

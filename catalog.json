@@ -11,6 +11,13 @@
                   },
                   {
                       "system":  "ARCADE",
+                      "file":  "1942.zip",
+                      "path":  "roms/ARCADE/1942.zip",
+                      "size":  106788,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "ARCADE",
                       "file":  "1943.zip",
                       "path":  "roms/ARCADE/1943.zip",
                       "size":  305392,
@@ -95,9 +102,30 @@
                   },
                   {
                       "system":  "ARCADE",
+                      "file":  "mslug.zip",
+                      "path":  "roms/ARCADE/mslug.zip",
+                      "size":  14758164,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "mslug2.zip",
+                      "path":  "roms/ARCADE/mslug2.zip",
+                      "size":  19066645,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "ARCADE",
                       "file":  "mspacman.zip",
                       "path":  "roms/ARCADE/mspacman.zip",
                       "size":  21791,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "mvscu.zip",
+                      "path":  "roms/ARCADE/mvscu.zip",
+                      "size":  23581770,
                       "added":  "2026-11-13"
                   },
                   {
@@ -130,6 +158,13 @@
                   },
                   {
                       "system":  "ARCADE",
+                      "file":  "pbobblen.zip",
+                      "path":  "roms/ARCADE/pbobblen.zip",
+                      "size":  5264245,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "ARCADE",
                       "file":  "robocop2u.zip",
                       "path":  "roms/ARCADE/robocop2u.zip",
                       "size":  2809315,
@@ -158,6 +193,13 @@
                   },
                   {
                       "system":  "ARCADE",
+                      "file":  "sfa3.zip",
+                      "path":  "roms/ARCADE/sfa3.zip",
+                      "size":  23352106,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "ARCADE",
                       "file":  "simpsons.zip",
                       "path":  "roms/ARCADE/simpsons.zip",
                       "size":  2484192,
@@ -168,13 +210,6 @@
                       "file":  "snowbros.zip",
                       "path":  "roms/ARCADE/snowbros.zip",
                       "size":  289681,
-                      "added":  "2026-11-13"
-                  },
-                  {
-                      "system":  "ARCADE",
-                      "file":  "spinmast.zip",
-                      "path":  "roms/ARCADE/spinmast.zip",
-                      "size":  4037279,
                       "added":  "2026-11-13"
                   },
                   {
@@ -207,13 +242,6 @@
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
-                      "file":  "Contra Advance - The Alien Wars EX (USA).gba",
-                      "path":  "roms/GAME BOY ADVANCE/Contra Advance - The Alien Wars EX (USA).gba",
-                      "size":  2,
-                      "added":  "2026-11-13"
-                  },
-                  {
-                      "system":  "GAME BOY ADVANCE",
                       "file":  "Crash Bandicoot - The Huge Adventure (USA).gba",
                       "path":  "roms/GAME BOY ADVANCE/Crash Bandicoot - The Huge Adventure (USA).gba",
                       "size":  8388608,
@@ -223,6 +251,13 @@
                       "system":  "GAME BOY ADVANCE",
                       "file":  "Crash Nitro Kart (USA).gba",
                       "path":  "roms/GAME BOY ADVANCE/Crash Nitro Kart (USA).gba",
+                      "size":  8388608,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "GAME BOY ADVANCE",
+                      "file":  "Doom (USA, Europe).gba",
+                      "path":  "roms/GAME BOY ADVANCE/Doom (USA, Europe).gba",
                       "size":  8388608,
                       "added":  "2026-11-13"
                   },
@@ -249,9 +284,30 @@
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
-                      "file":  "Mario Kart - Super Circuit (USA).gba",
-                      "path":  "roms/GAME BOY ADVANCE/Mario Kart - Super Circuit (USA).gba",
-                      "size":  2,
+                      "file":  "Mario Kart Super Circuit.gba",
+                      "path":  "roms/GAME BOY ADVANCE/Mario Kart Super Circuit.gba",
+                      "size":  8888256,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "GAME BOY ADVANCE",
+                      "file":  "Metal Slug Advance (USA).gba",
+                      "path":  "roms/GAME BOY ADVANCE/Metal Slug Advance (USA).gba",
+                      "size":  8388608,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "GAME BOY ADVANCE",
+                      "file":  "Metroid Fusion (USA).gba",
+                      "path":  "roms/GAME BOY ADVANCE/Metroid Fusion (USA).gba",
+                      "size":  8388608,
+                      "added":  "2026-11-13"
+                  },
+                  {
+                      "system":  "GAME BOY ADVANCE",
+                      "file":  "Naruto - Ninja Council 2 (USA).gba",
+                      "path":  "roms/GAME BOY ADVANCE/Naruto - Ninja Council 2 (USA).gba",
+                      "size":  8388608,
                       "added":  "2026-11-13"
                   },
                   {
@@ -263,23 +319,16 @@
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
-                      "file":  "Super Mario Advance 3 - Yoshi\u0027s Island (USA).gba",
-                      "path":  "roms/GAME BOY ADVANCE/Super Mario Advance 3 - Yoshi\u0027s Island (USA).gba",
-                      "size":  2,
+                      "file":  "Pokemon - Emerald Version (USA, Europe).gba",
+                      "path":  "roms/GAME BOY ADVANCE/Pokemon - Emerald Version (USA, Europe).gba",
+                      "size":  16777216,
                       "added":  "2026-11-13"
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
-                      "file":  "Teen Titans (USA) (En,Fr).gba",
-                      "path":  "roms/GAME BOY ADVANCE/Teen Titans (USA) (En,Fr).gba",
-                      "size":  2,
-                      "added":  "2026-11-13"
-                  },
-                  {
-                      "system":  "GAME BOY ADVANCE",
-                      "file":  "Tetris Worlds (USA).gba",
-                      "path":  "roms/GAME BOY ADVANCE/Tetris Worlds (USA).gba",
-                      "size":  2,
+                      "file":  "Spider-Man 3 (Spain).gba",
+                      "path":  "roms/GAME BOY ADVANCE/Spider-Man 3 (Spain).gba",
+                      "size":  8388608,
                       "added":  "2026-11-13"
                   },
                   {

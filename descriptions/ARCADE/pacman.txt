@@ -1,0 +1,3 @@
+"PAC-MAN" es un juego de acción lanzado por NAMCO en 1980.
+Los jugadores superan las etapas comiendo todos los "Pac-Puntos" en cada ronda sin ser atrapados por ninguno de los "fantasmas", cada uno con su propia personalidad.
+Comer “Pac-Bola” te permitirá atacar a los fantasmas, ¡así que tómalos con cuidado!
