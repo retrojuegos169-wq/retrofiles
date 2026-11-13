@@ -1,0 +1,290 @@
+SIN PORTADA (94)
+roms/ARCADE/1941.zip
+roms/ARCADE/1943.zip
+roms/ARCADE/aerofgt.zip
+roms/ARCADE/aliens.zip
+roms/ARCADE/captcommb.zip
+roms/ARCADE/contra.zip
+roms/ARCADE/ddragon2.zip
+roms/ARCADE/dino.zip
+roms/ARCADE/ffightub.zip
+roms/ARCADE/ghouls.zip
+roms/ARCADE/gngt.zip
+roms/ARCADE/mspacman.zip
+roms/ARCADE/nbajam.zip
+roms/ARCADE/neobombe.zip
+roms/ARCADE/pacman.zip
+roms/ARCADE/pang.zip
+roms/ARCADE/robocop2u.zip
+roms/ARCADE/rtype.zip
+roms/ARCADE/sbbros.zip
+roms/ARCADE/sf2.zip
+roms/ARCADE/simpsons.zip
+roms/ARCADE/snowbros.zip
+roms/ARCADE/spinmast.zip
+roms/ARCADE/ssridersubc.zip
+roms/ARCADE/tetrisp.zip
+roms/ARCADE/tmnt.zip
+roms/ARCADE/tumbleb.zip
+roms/GAME BOY ADVANCE/Contra Advance - The Alien Wars EX (USA).gba
+roms/GAME BOY ADVANCE/Crash Bandicoot - The Huge Adventure (USA).gba
+roms/GAME BOY ADVANCE/Crash Nitro Kart (USA).gba
+roms/GAME BOY ADVANCE/Golden Sun (USA, Europe).gba
+roms/GAME BOY ADVANCE/Kirby - Nightmare in Dream Land (USA).gba
+roms/GAME BOY ADVANCE/Mario Kart - Super Circuit (USA).gba
+roms/GAME BOY ADVANCE/Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).gba
+roms/GAME BOY ADVANCE/Super Mario Advance 3 - Yoshi's Island (USA).gba
+roms/GAME BOY ADVANCE/Teen Titans (USA) (En,Fr).gba
+roms/GAME BOY ADVANCE/Tetris Worlds (USA).gba
+roms/SEGA GENESIS/Golden Axe (World) (Rev A).md
+roms/SEGA GENESIS/Golden Axe II (World) (Beta).md
+roms/SEGA GENESIS/Jurassic Park (USA).md
+roms/SEGA GENESIS/Pac-Man 2 - The New Adventures.md
+roms/SEGA GENESIS/Pac-Mania.md
+roms/SEGA GENESIS/Pitfall - The Mayan Adventure.md
+roms/SEGA GENESIS/Puyo Puyo (Japan).gg
+roms/SEGA GENESIS/Puyo Puyo 2 (Japan).gg
+roms/SEGA GENESIS/Road Rash 3.md
+roms/SEGA GENESIS/Sonic The Hedgehog 2 (World) (Rev A).md
+roms/SEGA GENESIS/Spider-Man (USA, Europe) (Acclaim).md
+roms/SEGA GENESIS/Streets of Rage (World) (Rev A).md
+roms/SEGA GENESIS/Teenage Mutant Ninja Turtles - Return of the Shredder (Japan).md
+roms/SEGA GENESIS/Terminator, The (USA).md
+roms/SEGA GENESIS/The Flintstones.md
+roms/SEGA GENESIS/The Jungle Book.gg
+roms/SEGA GENESIS/Virtua Racing (USA).md
+roms/SEGA GENESIS/Zombies Ate My Neighbors.md
+roms/SUPER NINTENDO/Alien 3 (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Batman Returns (USA).sfc
+roms/SUPER NINTENDO/Battletoads-Double Dragon (USA).sfc
+roms/SUPER NINTENDO/Captain America and the Avengers (USA).sfc
+roms/SUPER NINTENDO/Choplifter III - Rescue-Survive (USA).sfc
+roms/SUPER NINTENDO/Chrono Trigger (USA).sfc
+roms/SUPER NINTENDO/Contra III - The Alien Wars (USA).sfc
+roms/SUPER NINTENDO/Donkey Kong Country (U) (V1.2) [!].smc
+roms/SUPER NINTENDO/F-Zero (USA).sfc
+roms/SUPER NINTENDO/Gradius III (USA).sfc
+roms/SUPER NINTENDO/International Superstar Soccer (USA).sfc
+roms/SUPER NINTENDO/Killer Instinct (USA).sfc
+roms/SUPER NINTENDO/Legend of Zelda, The - A Link to the Past (U) [!].smc
+roms/SUPER NINTENDO/Lion King, The (USA).gg
+roms/SUPER NINTENDO/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Megaman X (USA).sfc
+roms/SUPER NINTENDO/Mortal Kombat II (USA).sfc
+roms/SUPER NINTENDO/Rock N' Roll Racing (USA).sfc
+roms/SUPER NINTENDO/Side Pocket (USA).sfc
+roms/SUPER NINTENDO/Star Fox (USA) (Rev 2).sfc
+roms/SUPER NINTENDO/Super Adventure Island (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman 2 (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman 3 (Europe).sfc
+roms/SUPER NINTENDO/Super Bomberman 5 Gold Cartridge (J) [!].smc
+roms/SUPER NINTENDO/Super Mario Kart (U) [!].smc
+roms/SUPER NINTENDO/Super Mario World (USA).sfc
+roms/SUPER NINTENDO/Super Punch-Out!! (USA).sfc
+roms/SUPER NINTENDO/Super Star Wars - Return of the Jedi.sfc
+roms/SUPER NINTENDO/Super Star Wars - The Empire Strikes Back (U) (V1.1).smc
+roms/SUPER NINTENDO/Super Star Wars (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Terminator 2 - Judgment Day (USA).sfc
+roms/SUPER NINTENDO/Tetris 2 (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Tetris Attack (USA) (En,Ja).sfc
+roms/SUPER NINTENDO/Top Gear (USA).sfc
+roms/SUPER NINTENDO/Top Gear 2 (USA).md
+roms/SUPER NINTENDO/Ultimate Mortal Kombat 3 (USA).sfc
+roms/SUPER NINTENDO/Wolverine - Adamantium Rage (USA).sfc
+roms/SUPER NINTENDO/X-Men - Mutant Apocalypse (USA).sfc
+
+SIN CAPTURA (94)
+roms/ARCADE/1941.zip
+roms/ARCADE/1943.zip
+roms/ARCADE/aerofgt.zip
+roms/ARCADE/aliens.zip
+roms/ARCADE/captcommb.zip
+roms/ARCADE/contra.zip
+roms/ARCADE/ddragon2.zip
+roms/ARCADE/dino.zip
+roms/ARCADE/ffightub.zip
+roms/ARCADE/ghouls.zip
+roms/ARCADE/gngt.zip
+roms/ARCADE/mspacman.zip
+roms/ARCADE/nbajam.zip
+roms/ARCADE/neobombe.zip
+roms/ARCADE/pacman.zip
+roms/ARCADE/pang.zip
+roms/ARCADE/robocop2u.zip
+roms/ARCADE/rtype.zip
+roms/ARCADE/sbbros.zip
+roms/ARCADE/sf2.zip
+roms/ARCADE/simpsons.zip
+roms/ARCADE/snowbros.zip
+roms/ARCADE/spinmast.zip
+roms/ARCADE/ssridersubc.zip
+roms/ARCADE/tetrisp.zip
+roms/ARCADE/tmnt.zip
+roms/ARCADE/tumbleb.zip
+roms/GAME BOY ADVANCE/Contra Advance - The Alien Wars EX (USA).gba
+roms/GAME BOY ADVANCE/Crash Bandicoot - The Huge Adventure (USA).gba
+roms/GAME BOY ADVANCE/Crash Nitro Kart (USA).gba
+roms/GAME BOY ADVANCE/Golden Sun (USA, Europe).gba
+roms/GAME BOY ADVANCE/Kirby - Nightmare in Dream Land (USA).gba
+roms/GAME BOY ADVANCE/Mario Kart - Super Circuit (USA).gba
+roms/GAME BOY ADVANCE/Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).gba
+roms/GAME BOY ADVANCE/Super Mario Advance 3 - Yoshi's Island (USA).gba
+roms/GAME BOY ADVANCE/Teen Titans (USA) (En,Fr).gba
+roms/GAME BOY ADVANCE/Tetris Worlds (USA).gba
+roms/SEGA GENESIS/Golden Axe (World) (Rev A).md
+roms/SEGA GENESIS/Golden Axe II (World) (Beta).md
+roms/SEGA GENESIS/Jurassic Park (USA).md
+roms/SEGA GENESIS/Pac-Man 2 - The New Adventures.md
+roms/SEGA GENESIS/Pac-Mania.md
+roms/SEGA GENESIS/Pitfall - The Mayan Adventure.md
+roms/SEGA GENESIS/Puyo Puyo (Japan).gg
+roms/SEGA GENESIS/Puyo Puyo 2 (Japan).gg
+roms/SEGA GENESIS/Road Rash 3.md
+roms/SEGA GENESIS/Sonic The Hedgehog 2 (World) (Rev A).md
+roms/SEGA GENESIS/Spider-Man (USA, Europe) (Acclaim).md
+roms/SEGA GENESIS/Streets of Rage (World) (Rev A).md
+roms/SEGA GENESIS/Teenage Mutant Ninja Turtles - Return of the Shredder (Japan).md
+roms/SEGA GENESIS/Terminator, The (USA).md
+roms/SEGA GENESIS/The Flintstones.md
+roms/SEGA GENESIS/The Jungle Book.gg
+roms/SEGA GENESIS/Virtua Racing (USA).md
+roms/SEGA GENESIS/Zombies Ate My Neighbors.md
+roms/SUPER NINTENDO/Alien 3 (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Batman Returns (USA).sfc
+roms/SUPER NINTENDO/Battletoads-Double Dragon (USA).sfc
+roms/SUPER NINTENDO/Captain America and the Avengers (USA).sfc
+roms/SUPER NINTENDO/Choplifter III - Rescue-Survive (USA).sfc
+roms/SUPER NINTENDO/Chrono Trigger (USA).sfc
+roms/SUPER NINTENDO/Contra III - The Alien Wars (USA).sfc
+roms/SUPER NINTENDO/Donkey Kong Country (U) (V1.2) [!].smc
+roms/SUPER NINTENDO/F-Zero (USA).sfc
+roms/SUPER NINTENDO/Gradius III (USA).sfc
+roms/SUPER NINTENDO/International Superstar Soccer (USA).sfc
+roms/SUPER NINTENDO/Killer Instinct (USA).sfc
+roms/SUPER NINTENDO/Legend of Zelda, The - A Link to the Past (U) [!].smc
+roms/SUPER NINTENDO/Lion King, The (USA).gg
+roms/SUPER NINTENDO/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Megaman X (USA).sfc
+roms/SUPER NINTENDO/Mortal Kombat II (USA).sfc
+roms/SUPER NINTENDO/Rock N' Roll Racing (USA).sfc
+roms/SUPER NINTENDO/Side Pocket (USA).sfc
+roms/SUPER NINTENDO/Star Fox (USA) (Rev 2).sfc
+roms/SUPER NINTENDO/Super Adventure Island (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman 2 (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman 3 (Europe).sfc
+roms/SUPER NINTENDO/Super Bomberman 5 Gold Cartridge (J) [!].smc
+roms/SUPER NINTENDO/Super Mario Kart (U) [!].smc
+roms/SUPER NINTENDO/Super Mario World (USA).sfc
+roms/SUPER NINTENDO/Super Punch-Out!! (USA).sfc
+roms/SUPER NINTENDO/Super Star Wars - Return of the Jedi.sfc
+roms/SUPER NINTENDO/Super Star Wars - The Empire Strikes Back (U) (V1.1).smc
+roms/SUPER NINTENDO/Super Star Wars (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Terminator 2 - Judgment Day (USA).sfc
+roms/SUPER NINTENDO/Tetris 2 (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Tetris Attack (USA) (En,Ja).sfc
+roms/SUPER NINTENDO/Top Gear (USA).sfc
+roms/SUPER NINTENDO/Top Gear 2 (USA).md
+roms/SUPER NINTENDO/Ultimate Mortal Kombat 3 (USA).sfc
+roms/SUPER NINTENDO/Wolverine - Adamantium Rage (USA).sfc
+roms/SUPER NINTENDO/X-Men - Mutant Apocalypse (USA).sfc
+
+SIN DESCRIPCION (97)
+roms/ARCADE/1941.zip
+roms/ARCADE/1943.zip
+roms/ARCADE/aerofgt.zip
+roms/ARCADE/aliens.zip
+roms/ARCADE/captcommb.zip
+roms/ARCADE/contra.zip
+roms/ARCADE/ddragon2.zip
+roms/ARCADE/dino.zip
+roms/ARCADE/ffightub.zip
+roms/ARCADE/ghouls.zip
+roms/ARCADE/gngt.zip
+roms/ARCADE/mspacman.zip
+roms/ARCADE/nbajam.zip
+roms/ARCADE/neobombe.zip
+roms/ARCADE/pacman.zip
+roms/ARCADE/pang.zip
+roms/ARCADE/robocop2u.zip
+roms/ARCADE/rtype.zip
+roms/ARCADE/sbbros.zip
+roms/ARCADE/sf2.zip
+roms/ARCADE/simpsons.zip
+roms/ARCADE/snowbros.zip
+roms/ARCADE/spinmast.zip
+roms/ARCADE/ssridersubc.zip
+roms/ARCADE/tetrisp.zip
+roms/ARCADE/tmnt.zip
+roms/ARCADE/tumbleb.zip
+roms/GAME BOY ADVANCE/Contra Advance - The Alien Wars EX (USA).gba
+roms/GAME BOY ADVANCE/Crash Bandicoot - The Huge Adventure (USA).gba
+roms/GAME BOY ADVANCE/Crash Nitro Kart (USA).gba
+roms/GAME BOY ADVANCE/Golden Sun (USA, Europe).gba
+roms/GAME BOY ADVANCE/Kirby - Nightmare in Dream Land (USA).gba
+roms/GAME BOY ADVANCE/Mario Kart - Super Circuit (USA).gba
+roms/GAME BOY ADVANCE/Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).gba
+roms/GAME BOY ADVANCE/Super Mario Advance 3 - Yoshi's Island (USA).gba
+roms/GAME BOY ADVANCE/Teen Titans (USA) (En,Fr).gba
+roms/GAME BOY ADVANCE/Tetris Worlds (USA).gba
+roms/NINTENDO/Batman - The Video Game (USA).nes
+roms/NINTENDO/Mike Tyson's Punch-Out!! (Japan, USA) (Rev 1).nes
+roms/NINTENDO/Teenage Mutant Ninja Turtles II - The Arcade Game (USA).nes
+roms/SEGA GENESIS/Golden Axe (World) (Rev A).md
+roms/SEGA GENESIS/Golden Axe II (World) (Beta).md
+roms/SEGA GENESIS/Jurassic Park (USA).md
+roms/SEGA GENESIS/Pac-Man 2 - The New Adventures.md
+roms/SEGA GENESIS/Pac-Mania.md
+roms/SEGA GENESIS/Pitfall - The Mayan Adventure.md
+roms/SEGA GENESIS/Puyo Puyo (Japan).gg
+roms/SEGA GENESIS/Puyo Puyo 2 (Japan).gg
+roms/SEGA GENESIS/Road Rash 3.md
+roms/SEGA GENESIS/Sonic The Hedgehog 2 (World) (Rev A).md
+roms/SEGA GENESIS/Spider-Man (USA, Europe) (Acclaim).md
+roms/SEGA GENESIS/Streets of Rage (World) (Rev A).md
+roms/SEGA GENESIS/Teenage Mutant Ninja Turtles - Return of the Shredder (Japan).md
+roms/SEGA GENESIS/Terminator, The (USA).md
+roms/SEGA GENESIS/The Flintstones.md
+roms/SEGA GENESIS/The Jungle Book.gg
+roms/SEGA GENESIS/Virtua Racing (USA).md
+roms/SEGA GENESIS/Zombies Ate My Neighbors.md
+roms/SUPER NINTENDO/Alien 3 (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Batman Returns (USA).sfc
+roms/SUPER NINTENDO/Battletoads-Double Dragon (USA).sfc
+roms/SUPER NINTENDO/Captain America and the Avengers (USA).sfc
+roms/SUPER NINTENDO/Choplifter III - Rescue-Survive (USA).sfc
+roms/SUPER NINTENDO/Chrono Trigger (USA).sfc
+roms/SUPER NINTENDO/Contra III - The Alien Wars (USA).sfc
+roms/SUPER NINTENDO/Donkey Kong Country (U) (V1.2) [!].smc
+roms/SUPER NINTENDO/F-Zero (USA).sfc
+roms/SUPER NINTENDO/Gradius III (USA).sfc
+roms/SUPER NINTENDO/International Superstar Soccer (USA).sfc
+roms/SUPER NINTENDO/Killer Instinct (USA).sfc
+roms/SUPER NINTENDO/Legend of Zelda, The - A Link to the Past (U) [!].smc
+roms/SUPER NINTENDO/Lion King, The (USA).gg
+roms/SUPER NINTENDO/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Megaman X (USA).sfc
+roms/SUPER NINTENDO/Mortal Kombat II (USA).sfc
+roms/SUPER NINTENDO/Rock N' Roll Racing (USA).sfc
+roms/SUPER NINTENDO/Side Pocket (USA).sfc
+roms/SUPER NINTENDO/Star Fox (USA) (Rev 2).sfc
+roms/SUPER NINTENDO/Super Adventure Island (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman 2 (USA).sfc
+roms/SUPER NINTENDO/Super Bomberman 3 (Europe).sfc
+roms/SUPER NINTENDO/Super Bomberman 5 Gold Cartridge (J) [!].smc
+roms/SUPER NINTENDO/Super Mario Kart (U) [!].smc
+roms/SUPER NINTENDO/Super Mario World (USA).sfc
+roms/SUPER NINTENDO/Super Punch-Out!! (USA).sfc
+roms/SUPER NINTENDO/Super Star Wars - Return of the Jedi.sfc
+roms/SUPER NINTENDO/Super Star Wars - The Empire Strikes Back (U) (V1.1).smc
+roms/SUPER NINTENDO/Super Star Wars (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Terminator 2 - Judgment Day (USA).sfc
+roms/SUPER NINTENDO/Tetris 2 (USA) (Rev 1).sfc
+roms/SUPER NINTENDO/Tetris Attack (USA) (En,Ja).sfc
+roms/SUPER NINTENDO/Top Gear (USA).sfc
+roms/SUPER NINTENDO/Top Gear 2 (USA).md
+roms/SUPER NINTENDO/Ultimate Mortal Kombat 3 (USA).sfc
+roms/SUPER NINTENDO/Wolverine - Adamantium Rage (USA).sfc
+roms/SUPER NINTENDO/X-Men - Mutant Apocalypse (USA).sfc
