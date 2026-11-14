@@ -1,13 +1,6 @@
-PORTADAS QUE FALTAN (101). Crea cada archivo con este nombre (.png, .jpg o .webp):
+PORTADAS QUE FALTAN (94). Crea cada archivo con este nombre (.png, .jpg o .webp):
 
-covers/ARCADE/1941.png
 covers/ARCADE/1942.png
-covers/ARCADE/1943.png
-covers/ARCADE/aerofgt.png
-covers/ARCADE/aliens.png
-covers/ARCADE/captcommb.png
-covers/ARCADE/contra.png
-covers/ARCADE/ddragon2.png
 covers/ARCADE/dino.png
 covers/ARCADE/ffightub.png
 covers/ARCADE/ghouls.png
