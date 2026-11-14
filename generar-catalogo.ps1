@@ -1,3 +1,5 @@
+param([switch]$TodoAntiguo)
+
 # Genera catalog.json con la lista de juegos de la carpeta ROMS
 $ErrorActionPreference = "Stop"
 $root = $PSScriptRoot
@@ -71,12 +73,14 @@ foreach ($consoleDir in (Get-ChildItem -Path $romsDir.FullName -Directory | Sort
         if ($file.Name -like "*.part") { continue }
 
         $path = "$($romsDir.Name)/$($consoleDir.Name)/$($file.Name)"
-        if ($previous.ContainsKey($path)) {
-            $added = $previous[$path]
-        } else {
-            $added = $today
-            $newCount++
-        }
+        if ($TodoAntiguo) {
+    $added = "2020-01-01"
+} elseif ($previous.ContainsKey($path)) {
+    $added = $previous[$path]
+} else {
+    $added = $today
+    $newCount++
+}
 	        $baseName = [System.IO.Path]::GetFileNameWithoutExtension($file.Name)
         $title = ""
         if ($isArcade -and $arcadeTitles.ContainsKey($baseName.ToLower())) {

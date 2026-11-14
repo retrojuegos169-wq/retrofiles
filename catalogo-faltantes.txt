@@ -1,30 +1,5 @@
-PORTADAS QUE FALTAN (94). Crea cada archivo con este nombre (.png, .jpg o .webp):
+PORTADAS QUE FALTAN (69). Crea cada archivo con este nombre (.png, .jpg o .webp):
 
-covers/ARCADE/1942.png
-covers/ARCADE/dino.png
-covers/ARCADE/ffightub.png
-covers/ARCADE/ghouls.png
-covers/ARCADE/gngt.png
-covers/ARCADE/mslug.png
-covers/ARCADE/mslug2.png
-covers/ARCADE/mspacman.png
-covers/ARCADE/mvscu.png
-covers/ARCADE/nbajam.png
-covers/ARCADE/neobombe.png
-covers/ARCADE/pacman.png
-covers/ARCADE/pang.png
-covers/ARCADE/pbobblen.png
-covers/ARCADE/robocop2u.png
-covers/ARCADE/rtype.png
-covers/ARCADE/sbbros.png
-covers/ARCADE/sf2.png
-covers/ARCADE/sfa3.png
-covers/ARCADE/simpsons.png
-covers/ARCADE/snowbros.png
-covers/ARCADE/ssridersubc.png
-covers/ARCADE/tetrisp.png
-covers/ARCADE/tmnt.png
-covers/ARCADE/tumbleb.png
 covers/GAME BOY ADVANCE/Crash Bandicoot - The Huge Adventure (USA).png
 covers/GAME BOY ADVANCE/Crash Nitro Kart (USA).png
 covers/GAME BOY ADVANCE/Doom (USA, Europe).png
