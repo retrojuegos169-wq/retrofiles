@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "updated":  "2026-11-14",
+    "updated":  "2026-11-15",
     "games":  [
                   {
                       "system":  "ARCADE",
@@ -8,7 +8,10 @@
                       "path":  "roms/ARCADE/1941.zip",
                       "size":  1420289,
                       "added":  "2020-01-01",
-                      "title":  "1941: Counter Attack (World 900227)"
+                      "title":  "1941: Counter Attack (World 900227)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -16,7 +19,10 @@
                       "path":  "roms/ARCADE/1942.zip",
                       "size":  106788,
                       "added":  "2020-01-01",
-                      "title":  "1942 (Revision B)"
+                      "title":  "1942 (Revision B)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -24,7 +30,10 @@
                       "path":  "roms/ARCADE/1943.zip",
                       "size":  305392,
                       "added":  "2020-01-01",
-                      "title":  "1943: The Battle of Midway (Euro)"
+                      "title":  "1943: The Battle of Midway (Euro)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -32,7 +41,10 @@
                       "path":  "roms/ARCADE/aerofgt.zip",
                       "size":  2083061,
                       "added":  "2020-01-01",
-                      "title":  "Aero Fighters (World / USA + Canada / Korea / Hong Kong / Taiwan) (newer hardware)"
+                      "title":  "Aero Fighters (World / USA + Canada / Korea / Hong Kong / Taiwan) (newer hardware)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -40,7 +52,10 @@
                       "path":  "roms/ARCADE/aliens.zip",
                       "size":  1506389,
                       "added":  "2020-01-01",
-                      "title":  "Aliens (World set 1)"
+                      "title":  "Aliens (World set 1)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -48,7 +63,10 @@
                       "path":  "roms/ARCADE/bublbobl.zip",
                       "size":  183843,
                       "added":  "2020-01-01",
-                      "title":  "Bubble Bobble (Japan, Ver 0.1)"
+                      "title":  "Bubble Bobble (Japan, Ver 0.1)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -56,7 +74,10 @@
                       "path":  "roms/ARCADE/captcommb.zip",
                       "size":  5167868,
                       "added":  "2020-01-01",
-                      "title":  "Captain Commando (bootleg)"
+                      "title":  "Captain Commando (bootleg)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -64,7 +85,10 @@
                       "path":  "roms/ARCADE/contra.zip",
                       "size":  388410,
                       "added":  "2020-01-01",
-                      "title":  "Contra (US / Asia, set 1)"
+                      "title":  "Contra (US / Asia, set 1)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -72,7 +96,10 @@
                       "path":  "roms/ARCADE/ddragon2.zip",
                       "size":  748422,
                       "added":  "2020-01-01",
-                      "title":  "Double Dragon II: The Revenge (World)"
+                      "title":  "Double Dragon II: The Revenge (World)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -80,7 +107,10 @@
                       "path":  "roms/ARCADE/dino.zip",
                       "size":  4118661,
                       "added":  "2020-01-01",
-                      "title":  "Cadillacs and Dinosaurs (World 930201)"
+                      "title":  "Cadillacs and Dinosaurs (World 930201)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -88,7 +118,10 @@
                       "path":  "roms/ARCADE/ffightub.zip",
                       "size":  1621953,
                       "added":  "2020-01-01",
-                      "title":  "Final Fight (USA 900424)"
+                      "title":  "Final Fight (USA 900424)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -96,7 +129,10 @@
                       "path":  "roms/ARCADE/ghouls.zip",
                       "size":  1608233,
                       "added":  "2020-01-01",
-                      "title":  "Ghouls\u0027n Ghosts (World)"
+                      "title":  "Ghouls\u0027n Ghosts (World)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -104,7 +140,10 @@
                       "path":  "roms/ARCADE/gngt.zip",
                       "size":  206073,
                       "added":  "2020-01-01",
-                      "title":  "Ghosts\u0027n Goblins (US)"
+                      "title":  "Ghosts\u0027n Goblins (US)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -112,7 +151,10 @@
                       "path":  "roms/ARCADE/mshvsf.zip",
                       "size":  23127379,
                       "added":  "2020-01-01",
-                      "title":  "Marvel Super Heroes Vs. Street Fighter (Europe 970625)"
+                      "title":  "Marvel Super Heroes Vs. Street Fighter (Europe 970625)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -120,7 +162,10 @@
                       "path":  "roms/ARCADE/mslug.zip",
                       "size":  14758164,
                       "added":  "2020-01-01",
-                      "title":  "Metal Slug - Super Vehicle-001"
+                      "title":  "Metal Slug - Super Vehicle-001",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -128,7 +173,10 @@
                       "path":  "roms/ARCADE/mslug2.zip",
                       "size":  19066645,
                       "added":  "2020-01-01",
-                      "title":  "Metal Slug 2 - Super Vehicle-001/II (NGM-2410 ~ NGH-2410)"
+                      "title":  "Metal Slug 2 - Super Vehicle-001/II (NGM-2410 ~ NGH-2410)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -136,7 +184,10 @@
                       "path":  "roms/ARCADE/mspacman.zip",
                       "size":  21791,
                       "added":  "2020-01-01",
-                      "title":  "Ms. Pac-Man"
+                      "title":  "Ms. Pac-Man",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -144,7 +195,10 @@
                       "path":  "roms/ARCADE/mvscu.zip",
                       "size":  23581770,
                       "added":  "2020-01-01",
-                      "title":  "Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)"
+                      "title":  "Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -152,7 +206,10 @@
                       "path":  "roms/ARCADE/nbajam.zip",
                       "size":  6352651,
                       "added":  "2020-01-01",
-                      "title":  "NBA Jam (rev 3.01 4/07/93)"
+                      "title":  "NBA Jam (rev 3.01 4/07/93)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -160,7 +217,10 @@
                       "path":  "roms/ARCADE/neobombe.zip",
                       "size":  7842478,
                       "added":  "2020-01-01",
-                      "title":  "Neo Bomberman"
+                      "title":  "Neo Bomberman",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -168,7 +228,10 @@
                       "path":  "roms/ARCADE/pacman.zip",
                       "size":  28432,
                       "added":  "2020-01-01",
-                      "title":  "Pac-Man (Midway)"
+                      "title":  "Pac-Man (Midway)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -176,7 +239,10 @@
                       "path":  "roms/ARCADE/pang.zip",
                       "size":  417534,
                       "added":  "2020-01-01",
-                      "title":  "Pang (World)"
+                      "title":  "Pang (World)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -184,7 +250,10 @@
                       "path":  "roms/ARCADE/pbobblen.zip",
                       "size":  5264245,
                       "added":  "2020-01-01",
-                      "title":  "Puzzle Bobble / Bust-A-Move (Neo-Geo, NGM-083)"
+                      "title":  "Puzzle Bobble / Bust-A-Move (Neo-Geo, NGM-083)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -192,7 +261,10 @@
                       "path":  "roms/ARCADE/robocop2u.zip",
                       "size":  2809315,
                       "added":  "2020-01-01",
-                      "title":  "Robocop 2 (US v0.10)"
+                      "title":  "Robocop 2 (US v0.10)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -200,7 +272,10 @@
                       "path":  "roms/ARCADE/rtype.zip",
                       "size":  386392,
                       "added":  "2020-01-01",
-                      "title":  "R-Type (World)"
+                      "title":  "R-Type (World)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -208,7 +283,10 @@
                       "path":  "roms/ARCADE/sbbros.zip",
                       "size":  1153316,
                       "added":  "2020-01-01",
-                      "title":  "Super Buster Bros. (USA 901001)"
+                      "title":  "Super Buster Bros. (USA 901001)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -216,7 +294,10 @@
                       "path":  "roms/ARCADE/sf2.zip",
                       "size":  3551819,
                       "added":  "2020-01-01",
-                      "title":  "Street Fighter II: The World Warrior (World 910522)"
+                      "title":  "Street Fighter II: The World Warrior (World 910522)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -224,7 +305,10 @@
                       "path":  "roms/ARCADE/sfa3.zip",
                       "size":  23352106,
                       "added":  "2020-01-01",
-                      "title":  "Street Fighter Alpha 3 (Europe 980904)"
+                      "title":  "Street Fighter Alpha 3 (Europe 980904)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -232,7 +316,10 @@
                       "path":  "roms/ARCADE/simpsons.zip",
                       "size":  2484192,
                       "added":  "2020-01-01",
-                      "title":  "The Simpsons (4 Players World, set 1)"
+                      "title":  "The Simpsons (4 Players World, set 1)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -240,7 +327,10 @@
                       "path":  "roms/ARCADE/snowbros.zip",
                       "size":  289681,
                       "added":  "2020-01-01",
-                      "title":  "Snow Bros. - Nick \u0026 Tom (set 1)"
+                      "title":  "Snow Bros. - Nick \u0026 Tom (set 1)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -248,7 +338,10 @@
                       "path":  "roms/ARCADE/ssridersubc.zip",
                       "size":  2475584,
                       "added":  "2020-01-01",
-                      "title":  "Sunset Riders (2 Players ver UBC)"
+                      "title":  "Sunset Riders (2 Players ver UBC)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -256,7 +349,10 @@
                       "path":  "roms/ARCADE/tetrisp.zip",
                       "size":  6027113,
                       "added":  "2020-01-01",
-                      "title":  "Tetris Plus (ver 1.0)"
+                      "title":  "Tetris Plus (ver 1.0)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -264,7 +360,10 @@
                       "path":  "roms/ARCADE/tmnt.zip",
                       "size":  1847120,
                       "added":  "2020-01-01",
-                      "title":  "Teenage Mutant Ninja Turtles (World 4 Players, version X)"
+                      "title":  "Teenage Mutant Ninja Turtles (World 4 Players, version X)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "ARCADE",
@@ -272,7 +371,10 @@
                       "path":  "roms/ARCADE/tumbleb.zip",
                       "size":  1750040,
                       "added":  "2020-01-01",
-                      "title":  "Tumble Pop (bootleg)"
+                      "title":  "Tumble Pop (bootleg)",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -280,7 +382,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Crash Bandicoot - The Huge Adventure (USA).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -288,7 +393,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Crash Nitro Kart (USA).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -296,7 +404,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Doom (USA, Europe).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -304,7 +415,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Dragon Ball - Advanced Adventure (USA).gba",
                       "size":  16777216,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -312,7 +426,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Golden Sun (USA, Europe).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -320,7 +437,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Kirby - Nightmare in Dream Land (USA).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -328,7 +448,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Mario Kart Super Circuit.gba",
                       "size":  8888256,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -336,7 +459,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Metal Slug Advance (USA).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -344,7 +470,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Metroid Fusion (USA).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -352,7 +481,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Naruto - Ninja Council 2 (USA).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -360,7 +492,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -368,7 +503,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Pokemon - Emerald Version (USA, Europe).gba",
                       "size":  16777216,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "GAME BOY ADVANCE",
@@ -376,7 +514,10 @@
                       "path":  "roms/GAME BOY ADVANCE/Spider-Man 3 (Spain).gba",
                       "size":  8388608,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -384,7 +525,10 @@
                       "path":  "roms/NINTENDO/Adventure Island 3 (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -392,7 +536,10 @@
                       "path":  "roms/NINTENDO/Balloon Fight (USA).nes",
                       "size":  24592,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -400,7 +547,10 @@
                       "path":  "roms/NINTENDO/Batman - Return of the Joker (USA).nes",
                       "size":  393232,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -408,7 +558,10 @@
                       "path":  "roms/NINTENDO/Batman - The Video Game (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -416,7 +569,10 @@
                       "path":  "roms/NINTENDO/Bomberman (USA).nes",
                       "size":  24592,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -424,7 +580,10 @@
                       "path":  "roms/NINTENDO/Chip \u0027n Dale - Rescue Rangers 2 (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -432,7 +591,10 @@
                       "path":  "roms/NINTENDO/Contra Force (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -440,7 +602,10 @@
                       "path":  "roms/NINTENDO/Donkey Kong Classics (USA, Europe).nes",
                       "size":  49168,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -448,7 +613,10 @@
                       "path":  "roms/NINTENDO/Double Dragon (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -456,7 +624,10 @@
                       "path":  "roms/NINTENDO/Dr. Mario (Japan, USA) (Rev 1).nes",
                       "size":  65552,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -464,7 +635,10 @@
                       "path":  "roms/NINTENDO/DuckTales (USA).nes",
                       "size":  131088,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -472,7 +646,10 @@
                       "path":  "roms/NINTENDO/Flintstones, The - The Surprise at Dinosaur Peak.nes",
                       "size":  393232,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -480,7 +657,10 @@
                       "path":  "roms/NINTENDO/Kirby\u0027s Adventure (USA) (Rev 1).nes",
                       "size":  786448,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -488,7 +668,10 @@
                       "path":  "roms/NINTENDO/Legend of Zelda, The (USA) (Rev 1).nes",
                       "size":  131088,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -496,7 +679,10 @@
                       "path":  "roms/NINTENDO/Mega Man (USA).nes",
                       "size":  131088,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -504,7 +690,10 @@
                       "path":  "roms/NINTENDO/Mega Man 2 (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -512,7 +701,10 @@
                       "path":  "roms/NINTENDO/Metroid (USA).nes",
                       "size":  131088,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -520,7 +712,10 @@
                       "path":  "roms/NINTENDO/Mighty Final Fight (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -528,7 +723,10 @@
                       "path":  "roms/NINTENDO/Mike Tyson\u0027s Punch-Out!! (Japan, USA) (Rev 1).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -536,7 +734,10 @@
                       "path":  "roms/NINTENDO/Ninja Gaiden (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -544,7 +745,10 @@
                       "path":  "roms/NINTENDO/RoboCop (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -552,7 +756,10 @@
                       "path":  "roms/NINTENDO/Super Mario Bros. 2 (USA) (Rev 1).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -560,7 +767,10 @@
                       "path":  "roms/NINTENDO/Super Mario Bros. 3 (USA) (Rev 1).nes",
                       "size":  393232,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -568,7 +778,10 @@
                       "path":  "roms/NINTENDO/Teenage Mutant Ninja Turtles II - The Arcade Game (USA).nes",
                       "size":  524304,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -576,7 +789,10 @@
                       "path":  "roms/NINTENDO/Tetris (USA) (Tengen) (Unl).nes",
                       "size":  49168,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "NINTENDO",
@@ -584,7 +800,10 @@
                       "path":  "roms/NINTENDO/Tiny Toon Adventures (USA).nes",
                       "size":  262160,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -592,7 +811,10 @@
                       "path":  "roms/SEGA GENESIS/Golden Axe (World) (Rev A).md",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -600,7 +822,10 @@
                       "path":  "roms/SEGA GENESIS/Golden Axe II (World) (Beta).md",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -608,7 +833,10 @@
                       "path":  "roms/SEGA GENESIS/Jurassic Park (USA).md",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -616,7 +844,10 @@
                       "path":  "roms/SEGA GENESIS/Pac-Man 2 - The New Adventures.md",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -624,7 +855,10 @@
                       "path":  "roms/SEGA GENESIS/Pac-Mania.md",
                       "size":  262144,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -632,7 +866,10 @@
                       "path":  "roms/SEGA GENESIS/Pitfall - The Mayan Adventure.md",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -640,7 +877,10 @@
                       "path":  "roms/SEGA GENESIS/Puyo Puyo (Japan).gg",
                       "size":  262144,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -648,7 +888,10 @@
                       "path":  "roms/SEGA GENESIS/Puyo Puyo 2 (Japan).gg",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -656,7 +899,10 @@
                       "path":  "roms/SEGA GENESIS/Road Rash 3.md",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -664,7 +910,10 @@
                       "path":  "roms/SEGA GENESIS/Sonic The Hedgehog (USA, Europe).md",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -672,7 +921,10 @@
                       "path":  "roms/SEGA GENESIS/Sonic The Hedgehog 2 (World) (Rev A).md",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -680,7 +932,10 @@
                       "path":  "roms/SEGA GENESIS/Spider-Man (USA, Europe) (Acclaim).md",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -688,7 +943,10 @@
                       "path":  "roms/SEGA GENESIS/Streets of Rage (World) (Rev A).md",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -696,7 +954,10 @@
                       "path":  "roms/SEGA GENESIS/Teenage Mutant Ninja Turtles - Return of the Shredder (Japan).md",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -704,7 +965,10 @@
                       "path":  "roms/SEGA GENESIS/Terminator, The (USA).md",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -712,7 +976,10 @@
                       "path":  "roms/SEGA GENESIS/The Flintstones.md",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -720,7 +987,10 @@
                       "path":  "roms/SEGA GENESIS/The Jungle Book.gg",
                       "size":  262144,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -728,7 +998,10 @@
                       "path":  "roms/SEGA GENESIS/Virtua Racing (USA).md",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SEGA GENESIS",
@@ -736,7 +1009,10 @@
                       "path":  "roms/SEGA GENESIS/Zombies Ate My Neighbors.md",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -744,7 +1020,10 @@
                       "path":  "roms/SUPER NINTENDO/Alien 3 (USA) (Rev 1).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -752,7 +1031,10 @@
                       "path":  "roms/SUPER NINTENDO/Batman Returns (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -760,7 +1042,10 @@
                       "path":  "roms/SUPER NINTENDO/Battletoads-Double Dragon (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -768,7 +1053,10 @@
                       "path":  "roms/SUPER NINTENDO/Captain America and the Avengers (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -776,7 +1064,10 @@
                       "path":  "roms/SUPER NINTENDO/Choplifter III - Rescue-Survive (USA).sfc",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -784,7 +1075,10 @@
                       "path":  "roms/SUPER NINTENDO/Chrono Trigger (USA).sfc",
                       "size":  4194304,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -792,7 +1086,10 @@
                       "path":  "roms/SUPER NINTENDO/Contra III - The Alien Wars (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -800,7 +1097,10 @@
                       "path":  "roms/SUPER NINTENDO/Donkey Kong Country (U) (V1.2) [!].smc",
                       "size":  4194304,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -808,7 +1108,10 @@
                       "path":  "roms/SUPER NINTENDO/F-Zero (USA).sfc",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -816,7 +1119,10 @@
                       "path":  "roms/SUPER NINTENDO/Gradius III (USA).sfc",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -824,7 +1130,10 @@
                       "path":  "roms/SUPER NINTENDO/International Superstar Soccer (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -832,7 +1141,10 @@
                       "path":  "roms/SUPER NINTENDO/Killer Instinct (USA).sfc",
                       "size":  4194304,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -840,7 +1152,10 @@
                       "path":  "roms/SUPER NINTENDO/Legend of Zelda, The - A Link to the Past (U) [!].smc",
                       "size":  1049088,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -848,7 +1163,10 @@
                       "path":  "roms/SUPER NINTENDO/Lion King, The (USA).gg",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -856,7 +1174,10 @@
                       "path":  "roms/SUPER NINTENDO/Magical Quest Starring Mickey Mouse, The (USA) (Rev 1).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -864,7 +1185,10 @@
                       "path":  "roms/SUPER NINTENDO/Megaman X (USA).sfc",
                       "size":  1572864,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -872,7 +1196,10 @@
                       "path":  "roms/SUPER NINTENDO/Mortal Kombat II (USA).sfc",
                       "size":  3145728,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -880,7 +1207,10 @@
                       "path":  "roms/SUPER NINTENDO/Rock N\u0027 Roll Racing (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -888,7 +1218,10 @@
                       "path":  "roms/SUPER NINTENDO/Side Pocket (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -896,7 +1229,10 @@
                       "path":  "roms/SUPER NINTENDO/Star Fox (USA) (Rev 2).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -904,7 +1240,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Adventure Island (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -912,7 +1251,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Bomberman (USA).sfc",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -920,7 +1262,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Bomberman 2 (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -928,7 +1273,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Bomberman 3 (Europe).sfc",
                       "size":  1572864,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -936,7 +1284,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Bomberman 5 Gold Cartridge (J) [!].smc",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -944,7 +1295,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Mario Kart (U) [!].smc",
                       "size":  524800,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -952,7 +1306,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Mario World (USA).sfc",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -960,7 +1317,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Punch-Out!! (USA).sfc",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -968,7 +1328,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Puyo Puyo (Japan) (Rev 1).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -976,7 +1339,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Star Wars - Return of the Jedi.sfc",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -984,7 +1350,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Star Wars - The Empire Strikes Back (U) (V1.1).smc",
                       "size":  1573376,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -992,7 +1361,10 @@
                       "path":  "roms/SUPER NINTENDO/Super Star Wars (USA) (Rev 1).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -1000,7 +1372,10 @@
                       "path":  "roms/SUPER NINTENDO/Terminator 2 - Judgment Day (USA).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -1008,7 +1383,10 @@
                       "path":  "roms/SUPER NINTENDO/Tetris 2 (USA) (Rev 1).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -1016,7 +1394,10 @@
                       "path":  "roms/SUPER NINTENDO/Tetris Attack (USA) (En,Ja).sfc",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -1024,7 +1405,10 @@
                       "path":  "roms/SUPER NINTENDO/Top Gear (USA).sfc",
                       "size":  524288,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -1032,7 +1416,10 @@
                       "path":  "roms/SUPER NINTENDO/Top Gear 2 (USA).md",
                       "size":  1048576,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -1040,7 +1427,10 @@
                       "path":  "roms/SUPER NINTENDO/Ultimate Mortal Kombat 3 (USA).sfc",
                       "size":  4194304,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -1048,7 +1438,10 @@
                       "path":  "roms/SUPER NINTENDO/Wolverine - Adamantium Rage (USA).sfc",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   },
                   {
                       "system":  "SUPER NINTENDO",
@@ -1056,7 +1449,10 @@
                       "path":  "roms/SUPER NINTENDO/X-Men - Mutant Apocalypse (USA).sfc",
                       "size":  2097152,
                       "added":  "2020-01-01",
-                      "title":  ""
+                      "title":  "",
+                      "tags":  [
+
+                               ]
                   }
               ]
 }
