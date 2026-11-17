@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "updated":  "2026-11-15",
+    "updated":  "2026-11-16",
     "games":  [
                   {
                       "system":  "ARCADE",
@@ -10,7 +10,9 @@
                       "added":  "2020-01-01",
                       "title":  "1941: Counter Attack (World 900227)",
                       "tags":  [
-
+                                   "SHOOTER",
+                                   "AVIONES",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -21,7 +23,9 @@
                       "added":  "2020-01-01",
                       "title":  "1942 (Revision B)",
                       "tags":  [
-
+                                   "SHOOTER",
+                                   "AVIONES",
+                                   "CLÁSICO"
                                ]
                   },
                   {
@@ -32,7 +36,9 @@
                       "added":  "2020-01-01",
                       "title":  "1943: The Battle of Midway (Euro)",
                       "tags":  [
-
+                                   "SHOOTER",
+                                   "AVIONES",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -43,7 +49,9 @@
                       "added":  "2020-01-01",
                       "title":  "Aero Fighters (World / USA + Canada / Korea / Hong Kong / Taiwan) (newer hardware)",
                       "tags":  [
-
+                                   "SHOOTER",
+                                   "AVIONES",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -54,7 +62,9 @@
                       "added":  "2020-01-01",
                       "title":  "Aliens (World set 1)",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -65,7 +75,9 @@
                       "added":  "2020-01-01",
                       "title":  "Bubble Bobble (Japan, Ver 0.1)",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "FANTASÍA",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -76,7 +88,9 @@
                       "added":  "2020-01-01",
                       "title":  "Captain Commando (bootleg)",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "SCI-FI",
+                                   "COOPERATIVO"
                                ]
                   },
                   {
@@ -87,7 +101,9 @@
                       "added":  "2020-01-01",
                       "title":  "Contra (US / Asia, set 1)",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -98,7 +114,9 @@
                       "added":  "2020-01-01",
                       "title":  "Double Dragon II: The Revenge (World)",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "CLÁSICO",
+                                   "COOPERATIVO"
                                ]
                   },
                   {
@@ -109,7 +127,9 @@
                       "added":  "2020-01-01",
                       "title":  "Cadillacs and Dinosaurs (World 930201)",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "DINOSAURIOS",
+                                   "COOPERATIVO"
                                ]
                   },
                   {
@@ -120,7 +140,9 @@
                       "added":  "2020-01-01",
                       "title":  "Final Fight (USA 900424)",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "CLÁSICO",
+                                   "COOPERATIVO"
                                ]
                   },
                   {
@@ -131,7 +153,9 @@
                       "added":  "2020-01-01",
                       "title":  "Ghouls\u0027n Ghosts (World)",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "TERROR",
+                                   "FANTASÍA"
                                ]
                   },
                   {
@@ -142,7 +166,9 @@
                       "added":  "2020-01-01",
                       "title":  "Ghosts\u0027n Goblins (US)",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "TERROR",
+                                   "FANTASÍA"
                                ]
                   },
                   {
@@ -153,7 +179,8 @@
                       "added":  "2020-01-01",
                       "title":  "Marvel Super Heroes Vs. Street Fighter (Europe 970625)",
                       "tags":  [
-
+                                   "SUPERHÉROES",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -164,7 +191,8 @@
                       "added":  "2020-01-01",
                       "title":  "Metal Slug - Super Vehicle-001",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -175,7 +203,8 @@
                       "added":  "2020-01-01",
                       "title":  "Metal Slug 2 - Super Vehicle-001/II (NGM-2410 ~ NGH-2410)",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -186,7 +215,8 @@
                       "added":  "2020-01-01",
                       "title":  "Ms. Pac-Man",
                       "tags":  [
-
+                                   "LABERINTO",
+                                   "CLÁSICO"
                                ]
                   },
                   {
@@ -197,7 +227,8 @@
                       "added":  "2020-01-01",
                       "title":  "Marvel Vs. Capcom: Clash of Super Heroes (USA 980123)",
                       "tags":  [
-
+                                   "SUPERHÉROES",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -208,7 +239,8 @@
                       "added":  "2020-01-01",
                       "title":  "NBA Jam (rev 3.01 4/07/93)",
                       "tags":  [
-
+                                   "DEPORTES",
+                                   "BÁSQUETBOL"
                                ]
                   },
                   {
@@ -219,7 +251,8 @@
                       "added":  "2020-01-01",
                       "title":  "Neo Bomberman",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "BOMBAS"
                                ]
                   },
                   {
@@ -230,7 +263,8 @@
                       "added":  "2020-01-01",
                       "title":  "Pac-Man (Midway)",
                       "tags":  [
-
+                                   "LABERINTO",
+                                   "CLÁSICO"
                                ]
                   },
                   {
@@ -241,7 +275,9 @@
                       "added":  "2020-01-01",
                       "title":  "Pang (World)",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -252,7 +288,8 @@
                       "added":  "2020-01-01",
                       "title":  "Puzzle Bobble / Bust-A-Move (Neo-Geo, NGM-083)",
                       "tags":  [
-
+                                   "BURBUJAS",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -263,7 +300,8 @@
                       "added":  "2020-01-01",
                       "title":  "Robocop 2 (US v0.10)",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -274,7 +312,9 @@
                       "added":  "2020-01-01",
                       "title":  "R-Type (World)",
                       "tags":  [
-
+                                   "SHOOTER",
+                                   "ESPACIO",
+                                   "CLÁSICO"
                                ]
                   },
                   {
@@ -285,7 +325,9 @@
                       "added":  "2020-01-01",
                       "title":  "Super Buster Bros. (USA 901001)",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -296,7 +338,8 @@
                       "added":  "2020-01-01",
                       "title":  "Street Fighter II: The World Warrior (World 910522)",
                       "tags":  [
-
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -307,7 +350,8 @@
                       "added":  "2020-01-01",
                       "title":  "Street Fighter Alpha 3 (Europe 980904)",
                       "tags":  [
-
+                                   "ANIME",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -318,7 +362,9 @@
                       "added":  "2020-01-01",
                       "title":  "The Simpsons (4 Players World, set 1)",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "DIBUJOS ANIMADOS",
+                                   "COOPERATIVO"
                                ]
                   },
                   {
@@ -329,7 +375,9 @@
                       "added":  "2020-01-01",
                       "title":  "Snow Bros. - Nick \u0026 Tom (set 1)",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -340,7 +388,9 @@
                       "added":  "2020-01-01",
                       "title":  "Sunset Riders (2 Players ver UBC)",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "VAQUEROS",
+                                   "COOPERATIVO"
                                ]
                   },
                   {
@@ -351,7 +401,8 @@
                       "added":  "2020-01-01",
                       "title":  "Tetris Plus (ver 1.0)",
                       "tags":  [
-
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -362,7 +413,9 @@
                       "added":  "2020-01-01",
                       "title":  "Teenage Mutant Ninja Turtles (World 4 Players, version X)",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "NINJAS",
+                                   "COOPERATIVO"
                                ]
                   },
                   {
@@ -373,7 +426,9 @@
                       "added":  "2020-01-01",
                       "title":  "Tumble Pop (bootleg)",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -384,7 +439,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "AVENTURA"
                                ]
                   },
                   {
@@ -395,7 +451,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "KARTS"
                                ]
                   },
                   {
@@ -406,7 +463,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "SHOOTER",
+                                   "SCI-FI",
+                                   "TERROR"
                                ]
                   },
                   {
@@ -417,7 +476,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "ANIME"
                                ]
                   },
                   {
@@ -428,7 +488,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ROL",
+                                   "FANTASÍA",
+                                   "AVENTURA"
                                ]
                   },
                   {
@@ -439,7 +501,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "FANTASÍA"
                                ]
                   },
                   {
@@ -450,7 +513,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "KARTS"
                                ]
                   },
                   {
@@ -461,7 +525,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN"
                                ]
                   },
                   {
@@ -472,7 +536,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "AVENTURA",
+                                   "ESPACIO",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -483,7 +549,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PELEAS",
+                                   "ANIME",
+                                   "NINJAS"
                                ]
                   },
                   {
@@ -494,7 +562,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "AUTOS"
                                ]
                   },
                   {
@@ -505,7 +574,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ROL",
+                                   "AVENTURA",
+                                   "FANTASÍA"
                                ]
                   },
                   {
@@ -516,7 +587,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SUPERHÉROES"
                                ]
                   },
                   {
@@ -527,7 +599,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "AVENTURA"
                                ]
                   },
                   {
@@ -538,7 +611,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -549,7 +623,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SUPERHÉROES"
                                ]
                   },
                   {
@@ -560,7 +635,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SUPERHÉROES"
                                ]
                   },
                   {
@@ -571,7 +647,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "BOMBAS"
                                ]
                   },
                   {
@@ -582,7 +659,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "DISNEY",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -593,7 +672,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN"
                                ]
                   },
                   {
@@ -604,7 +683,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "CLÁSICO"
                                ]
                   },
                   {
@@ -615,7 +695,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "CLÁSICO"
                                ]
                   },
                   {
@@ -626,7 +707,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -637,7 +719,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "DISNEY",
+                                   "AVENTURA"
                                ]
                   },
                   {
@@ -648,7 +732,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "DIBUJOS ANIMADOS"
                                ]
                   },
                   {
@@ -659,7 +744,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "FANTASÍA"
                                ]
                   },
                   {
@@ -670,7 +756,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "AVENTURA",
+                                   "FANTASÍA"
                                ]
                   },
                   {
@@ -681,7 +768,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -692,7 +780,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -703,7 +792,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "AVENTURA",
+                                   "ESPACIO",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -714,7 +805,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP"
                                ]
                   },
                   {
@@ -725,7 +816,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "DEPORTES",
+                                   "BOXEO"
                                ]
                   },
                   {
@@ -736,7 +828,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "NINJAS"
                                ]
                   },
                   {
@@ -747,7 +840,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -758,7 +852,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS"
                                ]
                   },
                   {
@@ -769,7 +863,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS"
                                ]
                   },
                   {
@@ -780,7 +874,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "NINJAS",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -791,7 +887,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CLÁSICO",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -802,7 +899,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "DIBUJOS ANIMADOS"
                                ]
                   },
                   {
@@ -813,7 +911,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "FANTASÍA",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -824,7 +924,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "FANTASÍA",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -835,7 +937,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "DINOSAURIOS"
                                ]
                   },
                   {
@@ -846,7 +949,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "AVENTURA"
                                ]
                   },
                   {
@@ -857,7 +960,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "LABERINTO",
+                                   "CLÁSICO"
                                ]
                   },
                   {
@@ -868,7 +972,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "AVENTURA"
                                ]
                   },
                   {
@@ -879,7 +984,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -890,7 +995,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -901,7 +1006,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "MOTOS"
                                ]
                   },
                   {
@@ -912,7 +1018,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "VELOCIDAD"
                                ]
                   },
                   {
@@ -923,7 +1030,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "VELOCIDAD",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -934,7 +1043,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SUPERHÉROES"
                                ]
                   },
                   {
@@ -945,7 +1055,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -956,7 +1067,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "NINJAS",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -967,7 +1080,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -978,7 +1092,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "DIBUJOS ANIMADOS"
                                ]
                   },
                   {
@@ -989,7 +1104,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "DISNEY"
                                ]
                   },
                   {
@@ -1000,7 +1116,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS"
                                ]
                   },
                   {
@@ -1011,7 +1127,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "TERROR",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1022,7 +1140,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI",
+                                   "TERROR"
                                ]
                   },
                   {
@@ -1033,7 +1153,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SUPERHÉROES"
                                ]
                   },
                   {
@@ -1044,7 +1165,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1055,7 +1177,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "BEAT EM UP",
+                                   "SUPERHÉROES",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1066,7 +1190,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "HELICÓPTEROS"
                                ]
                   },
                   {
@@ -1077,7 +1202,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ROL",
+                                   "FANTASÍA",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -1088,7 +1215,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1099,7 +1228,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "AVENTURA",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1110,7 +1241,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -1121,7 +1253,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "SHOOTER",
+                                   "ESPACIO"
                                ]
                   },
                   {
@@ -1132,7 +1265,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "DEPORTES",
+                                   "FÚTBOL",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1143,7 +1278,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1154,7 +1289,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "AVENTURA",
+                                   "FANTASÍA"
                                ]
                   },
                   {
@@ -1165,7 +1301,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "DISNEY"
                                ]
                   },
                   {
@@ -1176,7 +1313,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "DISNEY"
                                ]
                   },
                   {
@@ -1187,7 +1325,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -1198,7 +1337,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1209,7 +1348,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "ROCK",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1220,7 +1361,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "DEPORTES",
+                                   "BILLAR"
                                ]
                   },
                   {
@@ -1231,7 +1373,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "SHOOTER",
+                                   "ESPACIO"
                                ]
                   },
                   {
@@ -1242,7 +1385,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS",
+                                   "AVENTURA"
                                ]
                   },
                   {
@@ -1253,7 +1397,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "BOMBAS",
+                                   "MULTIJUGADOR"
                                ]
                   },
                   {
@@ -1264,7 +1410,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "BOMBAS",
+                                   "MULTIJUGADOR"
                                ]
                   },
                   {
@@ -1275,7 +1423,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "BOMBAS",
+                                   "MULTIJUGADOR"
                                ]
                   },
                   {
@@ -1286,7 +1436,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "BOMBAS",
+                                   "MULTIJUGADOR"
                                ]
                   },
                   {
@@ -1297,7 +1449,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "KARTS",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1308,7 +1462,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "PLATAFORMAS"
                                ]
                   },
                   {
@@ -1319,7 +1473,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "DEPORTES",
+                                   "BOXEO"
                                ]
                   },
                   {
@@ -1330,7 +1485,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1341,7 +1496,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI",
+                                   "ESPACIO"
                                ]
                   },
                   {
@@ -1352,7 +1509,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI",
+                                   "ESPACIO"
                                ]
                   },
                   {
@@ -1363,7 +1522,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI",
+                                   "ESPACIO"
                                ]
                   },
                   {
@@ -1374,7 +1535,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SCI-FI"
                                ]
                   },
                   {
@@ -1385,7 +1547,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CLÁSICO"
                                ]
                   },
                   {
@@ -1396,7 +1558,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1407,7 +1569,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "AUTOS",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1418,7 +1582,9 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "CARRERAS",
+                                   "AUTOS",
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1429,7 +1595,7 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "2 JUGADORES"
                                ]
                   },
                   {
@@ -1440,7 +1606,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SUPERHÉROES"
                                ]
                   },
                   {
@@ -1451,7 +1618,8 @@
                       "added":  "2020-01-01",
                       "title":  "",
                       "tags":  [
-
+                                   "ACCIÓN",
+                                   "SUPERHÉROES"
                                ]
                   }
               ]

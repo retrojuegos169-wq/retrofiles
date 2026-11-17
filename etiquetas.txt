@@ -1,0 +1,143 @@
+# nombre del archivo sin extension | ETIQUETAS (maximo 3 por juego)
+
+# ---------- ARCADE ----------
+1941 | SHOOTER, AVIONES, 2 JUGADORES
+1942 | SHOOTER, AVIONES, CLÁSICO
+1943 | SHOOTER, AVIONES, 2 JUGADORES
+aerofgt | SHOOTER, AVIONES, 2 JUGADORES
+aliens | ACCIÓN, SCI-FI, 2 JUGADORES
+bublbobl | PLATAFORMAS, FANTASÍA, 2 JUGADORES
+captcommb | BEAT EM UP, SCI-FI, COOPERATIVO
+contra | ACCIÓN, SCI-FI, 2 JUGADORES
+ddragon2 | BEAT EM UP, CLÁSICO, COOPERATIVO
+dino | BEAT EM UP, DINOSAURIOS, COOPERATIVO
+ffightub | BEAT EM UP, CLÁSICO, COOPERATIVO
+ghouls | PLATAFORMAS, TERROR, FANTASÍA
+gngt | PLATAFORMAS, TERROR, FANTASÍA
+mshvsf | SUPERHÉROES, 2 JUGADORES
+mslug | ACCIÓN, 2 JUGADORES
+mslug2 | ACCIÓN, 2 JUGADORES
+mspacman | LABERINTO, CLÁSICO
+mvscu | SUPERHÉROES, 2 JUGADORES
+nbajam | DEPORTES, BÁSQUETBOL
+neobombe | ACCIÓN, BOMBAS
+pacman | LABERINTO, CLÁSICO
+pang | ACCIÓN, CLÁSICO, 2 JUGADORES
+pbobblen | BURBUJAS, 2 JUGADORES
+robocop2u | ACCIÓN, SCI-FI
+rtype | SHOOTER, ESPACIO, CLÁSICO
+sbbros | ACCIÓN, CLÁSICO, 2 JUGADORES
+sf2 | CLÁSICO, 2 JUGADORES
+sfa3 | ANIME, 2 JUGADORES
+simpsons | BEAT EM UP, DIBUJOS ANIMADOS, COOPERATIVO
+snowbros | PLATAFORMAS, CLÁSICO, 2 JUGADORES
+ssridersubc | ACCIÓN, VAQUEROS, COOPERATIVO
+tetrisp | CLÁSICO, 2 JUGADORES
+tmnt | BEAT EM UP, NINJAS, COOPERATIVO
+tumbleb | ACCIÓN, CLÁSICO, 2 JUGADORES
+
+# ---------- GAME BOY ADVANCE ----------
+Crash Bandicoot - The Huge Adventure (USA) | PLATAFORMAS, AVENTURA
+Crash Nitro Kart (USA) | CARRERAS, KARTS
+Doom (USA, Europe) | SHOOTER, SCI-FI, TERROR
+Dragon Ball - Advanced Adventure (USA) | ACCIÓN, ANIME
+Golden Sun (USA, Europe) | ROL, FANTASÍA, AVENTURA
+Kirby - Nightmare in Dream Land (USA) | PLATAFORMAS, FANTASÍA
+Mario Kart Super Circuit | CARRERAS, KARTS
+Metal Slug Advance (USA) | ACCIÓN
+Metroid Fusion (USA) | AVENTURA, ESPACIO, SCI-FI
+Naruto - Ninja Council 2 (USA) | PELEAS, ANIME, NINJAS
+Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It) | CARRERAS, AUTOS
+Pokemon - Emerald Version (USA, Europe) | ROL, AVENTURA, FANTASÍA
+Spider-Man 3 (Spain) | ACCIÓN, SUPERHÉROES
+
+# ---------- NES ----------
+Adventure Island 3 (USA) | PLATAFORMAS, AVENTURA
+Balloon Fight (USA) | CLÁSICO, 2 JUGADORES
+Batman - Return of the Joker (USA) | ACCIÓN, SUPERHÉROES
+Batman - The Video Game (USA) | ACCIÓN, SUPERHÉROES
+Bomberman (USA) | ACCIÓN, BOMBAS
+Chip 'n Dale - Rescue Rangers 2 (USA) | PLATAFORMAS, DISNEY, 2 JUGADORES
+Contra Force (USA) | ACCIÓN
+Donkey Kong Classics (USA, Europe) | PLATAFORMAS, CLÁSICO
+Double Dragon (USA) | BEAT EM UP, CLÁSICO
+Dr. Mario (Japan, USA) (Rev 1) | CLÁSICO, 2 JUGADORES
+DuckTales (USA) | PLATAFORMAS, DISNEY, AVENTURA
+Flintstones, The - The Surprise at Dinosaur Peak | PLATAFORMAS, DIBUJOS ANIMADOS
+Kirby's Adventure (USA) (Rev 1) | PLATAFORMAS, FANTASÍA
+Legend of Zelda, The (USA) (Rev 1) | AVENTURA, FANTASÍA
+Mega Man (USA) | ACCIÓN, SCI-FI
+Mega Man 2 (USA) | ACCIÓN, SCI-FI
+Metroid (USA) | AVENTURA, ESPACIO, SCI-FI
+Mighty Final Fight (USA) | BEAT EM UP
+Mike Tyson's Punch-Out!! (Japan, USA) (Rev 1) | DEPORTES, BOXEO
+Ninja Gaiden (USA) | ACCIÓN, NINJAS
+RoboCop (USA) | ACCIÓN, SCI-FI
+Super Mario Bros. 2 (USA) (Rev 1) | PLATAFORMAS
+Super Mario Bros. 3 (USA) (Rev 1) | PLATAFORMAS
+Teenage Mutant Ninja Turtles II - The Arcade Game (USA) | BEAT EM UP, NINJAS, 2 JUGADORES
+Tetris (USA) (Tengen) (Unl) | CLÁSICO, 2 JUGADORES
+Tiny Toon Adventures (USA) | PLATAFORMAS, DIBUJOS ANIMADOS
+
+# ---------- SEGA GENESIS ----------
+Golden Axe (World) (Rev A) | BEAT EM UP, FANTASÍA, 2 JUGADORES
+Golden Axe II (World) (Beta) | BEAT EM UP, FANTASÍA, 2 JUGADORES
+Jurassic Park (USA) | ACCIÓN, DINOSAURIOS
+Pac-Man 2 - The New Adventures | AVENTURA
+Pac-Mania | LABERINTO, CLÁSICO
+Pitfall - The Mayan Adventure | PLATAFORMAS, AVENTURA
+Puyo Puyo (Japan) | 2 JUGADORES
+Puyo Puyo 2 (Japan) | 2 JUGADORES
+Road Rash 3 | CARRERAS, MOTOS
+Sonic The Hedgehog (USA, Europe) | PLATAFORMAS, VELOCIDAD
+Sonic The Hedgehog 2 (World) (Rev A) | PLATAFORMAS, VELOCIDAD, 2 JUGADORES
+Spider-Man (USA, Europe) (Acclaim) | ACCIÓN, SUPERHÉROES
+Streets of Rage (World) (Rev A) | BEAT EM UP, 2 JUGADORES
+Teenage Mutant Ninja Turtles - Return of the Shredder (Japan) | BEAT EM UP, NINJAS, 2 JUGADORES
+Terminator, The (USA) | ACCIÓN, SCI-FI
+The Flintstones | PLATAFORMAS, DIBUJOS ANIMADOS
+The Jungle Book | PLATAFORMAS, DISNEY
+Virtua Racing (USA) | CARRERAS
+Zombies Ate My Neighbors | ACCIÓN, TERROR, 2 JUGADORES
+
+# ---------- SUPER NINTENDO ----------
+Alien 3 (USA) (Rev 1) | ACCIÓN, SCI-FI, TERROR
+Batman Returns (USA) | ACCIÓN, SUPERHÉROES
+Battletoads-Double Dragon (USA) | BEAT EM UP, 2 JUGADORES
+Captain America and the Avengers (USA) | BEAT EM UP, SUPERHÉROES, 2 JUGADORES
+Choplifter III - Rescue-Survive (USA) | ACCIÓN, HELICÓPTEROS
+Chrono Trigger (USA) | ROL, FANTASÍA, SCI-FI
+Contra III - The Alien Wars (USA) | ACCIÓN, SCI-FI, 2 JUGADORES
+Donkey Kong Country (U) (V1.2) [!] | PLATAFORMAS, AVENTURA, 2 JUGADORES
+F-Zero (USA) | CARRERAS, SCI-FI
+Gradius III (USA) | SHOOTER, ESPACIO
+International Superstar Soccer (USA) | DEPORTES, FÚTBOL, 2 JUGADORES
+Killer Instinct (USA) | 2 JUGADORES
+Legend of Zelda, The - A Link to the Past (U) [!] | AVENTURA, FANTASÍA
+Lion King, The (USA) | PLATAFORMAS, DISNEY
+Magical Quest Starring Mickey Mouse, The (USA) (Rev 1) | PLATAFORMAS, DISNEY
+Megaman X (USA) | ACCIÓN, SCI-FI
+Mortal Kombat II (USA) | 2 JUGADORES
+Rock N' Roll Racing (USA) | CARRERAS, ROCK, 2 JUGADORES
+Side Pocket (USA) | DEPORTES, BILLAR
+Star Fox (USA) (Rev 2) | SHOOTER, ESPACIO
+Super Adventure Island (USA) | PLATAFORMAS, AVENTURA
+Super Bomberman (USA) | ACCIÓN, BOMBAS, MULTIJUGADOR
+Super Bomberman 2 (USA) | ACCIÓN, BOMBAS, MULTIJUGADOR
+Super Bomberman 3 (Europe) | ACCIÓN, BOMBAS, MULTIJUGADOR
+Super Bomberman 5 Gold Cartridge (J) [!] | ACCIÓN, BOMBAS, MULTIJUGADOR
+Super Mario Kart (U) [!] | CARRERAS, KARTS, 2 JUGADORES
+Super Mario World (USA) | PLATAFORMAS
+Super Punch-Out!! (USA) | DEPORTES, BOXEO
+Super Puyo Puyo (Japan) (Rev 1) | 2 JUGADORES
+Super Star Wars - Return of the Jedi | ACCIÓN, SCI-FI, ESPACIO
+Super Star Wars - The Empire Strikes Back (U) (V1.1) | ACCIÓN, SCI-FI, ESPACIO
+Super Star Wars (USA) (Rev 1) | ACCIÓN, SCI-FI, ESPACIO
+Terminator 2 - Judgment Day (USA) | ACCIÓN, SCI-FI
+Tetris 2 (USA) (Rev 1) | CLÁSICO
+Tetris Attack (USA) (En,Ja) | 2 JUGADORES
+Top Gear (USA) | CARRERAS, AUTOS, 2 JUGADORES
+Top Gear 2 (USA) | CARRERAS, AUTOS, 2 JUGADORES
+Ultimate Mortal Kombat 3 (USA) | 2 JUGADORES
+Wolverine - Adamantium Rage (USA) | ACCIÓN, SUPERHÉROES
+X-Men - Mutant Apocalypse (USA) | ACCIÓN, SUPERHÉROES
