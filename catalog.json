@@ -1,6 +1,6 @@
 {
     "version":  1,
-    "updated":  "2026-11-16",
+    "updated":  "2026-11-26",
     "games":  [
                   {
                       "system":  "ARCADE",
@@ -169,6 +169,116 @@
                                    "PLATAFORMAS",
                                    "TERROR",
                                    "FANTASÍA"
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof2000.zip",
+                      "path":  "roms/ARCADE/kof2000.zip",
+                      "size":  83117913,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters 2000 (NGM-2570 ~ NGH-2570)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof2001.zip",
+                      "path":  "roms/ARCADE/kof2001.zip",
+                      "size":  81420349,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters 2001 (NGM-262?)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof2002.zip",
+                      "path":  "roms/ARCADE/kof2002.zip",
+                      "size":  84076425,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters 2002 (NGM-2650 ~ NGH-2650)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof2003.zip",
+                      "path":  "roms/ARCADE/kof2003.zip",
+                      "size":  85735983,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters 2003 (NGM-2710, Export)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof94.zip",
+                      "path":  "roms/ARCADE/kof94.zip",
+                      "size":  14364357,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters \u002794 (NGM-055 ~ NGH-055)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof95.zip",
+                      "path":  "roms/ARCADE/kof95.zip",
+                      "size":  17749331,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters \u002795 (NGM-084)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof96.zip",
+                      "path":  "roms/ARCADE/kof96.zip",
+                      "size":  25161112,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters \u002796 (NGM-214)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof97.zip",
+                      "path":  "roms/ARCADE/kof97.zip",
+                      "size":  30338492,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters \u002797 (NGM-2320)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof98.zip",
+                      "path":  "roms/ARCADE/kof98.zip",
+                      "size":  42038587,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters \u002798 - The Slugfest / King of Fighters \u002798 - Dream Match Never Ends (NGM-2420)",
+                      "tags":  [
+
+                               ]
+                  },
+                  {
+                      "system":  "ARCADE",
+                      "file":  "kof99.zip",
+                      "path":  "roms/ARCADE/kof99.zip",
+                      "size":  80445222,
+                      "added":  "2026-11-26",
+                      "title":  "The King of Fighters \u002799 - Millennium Battle (NGM-2510)",
+                      "tags":  [
+
                                ]
                   },
                   {
@@ -437,7 +547,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Crash Bandicoot - The Huge Adventure (USA).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Crash Bandicoot - The Huge Adventure",
+                      "title":  "",
                       "tags":  [
                                    "PLATAFORMAS",
                                    "AVENTURA"
@@ -449,7 +559,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Crash Nitro Kart (USA).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Crash Nitro Kart",
+                      "title":  "",
                       "tags":  [
                                    "CARRERAS",
                                    "KARTS"
@@ -461,7 +571,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Doom (USA, Europe).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Doom",
+                      "title":  "",
                       "tags":  [
                                    "SHOOTER",
                                    "SCI-FI",
@@ -474,7 +584,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Dragon Ball - Advanced Adventure (USA).gba",
                       "size":  16777216,
                       "added":  "2026-11-20",
-                      "title":  "Dragon Ball - Advanced Adventure",
+                      "title":  "",
                       "tags":  [
                                    "ACCIÓN",
                                    "ANIME"
@@ -486,7 +596,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Golden Sun (USA, Europe).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Golden Sun",
+                      "title":  "",
                       "tags":  [
                                    "ROL",
                                    "FANTASÍA",
@@ -499,7 +609,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Kirby - Nightmare in Dream Land (USA).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Kirby - Nightmare in Dream Land",
+                      "title":  "",
                       "tags":  [
                                    "PLATAFORMAS",
                                    "FANTASÍA"
@@ -511,7 +621,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Mario Kart Super Circuit.gba",
                       "size":  8888256,
                       "added":  "2026-11-20",
-                      "title":  "Mario Kart Super Circuit",
+                      "title":  "",
                       "tags":  [
                                    "CARRERAS",
                                    "KARTS"
@@ -523,7 +633,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Metal Slug Advance (USA).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Metal Slug Advance",
+                      "title":  "",
                       "tags":  [
                                    "ACCIÓN"
                                ]
@@ -534,7 +644,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Metroid Fusion (USA).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Metroid Fusion",
+                      "title":  "",
                       "tags":  [
                                    "AVENTURA",
                                    "ESPACIO",
@@ -547,7 +657,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Naruto - Ninja Council 2 (USA).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Ninja Council 2",
+                      "title":  "",
                       "tags":  [
                                    "PELEAS",
                                    "ANIME",
@@ -560,7 +670,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Need for Speed - Most Wanted (USA, Europe) (En,Fr,De,It).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Need for Speed - Most Wanted",
+                      "title":  "",
                       "tags":  [
                                    "CARRERAS",
                                    "AUTOS"
@@ -572,7 +682,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Pokemon - Emerald Version (USA, Europe).gba",
                       "size":  16777216,
                       "added":  "2026-11-20",
-                      "title":  "Pokemon - Emerald Version",
+                      "title":  "",
                       "tags":  [
                                    "ROL",
                                    "AVENTURA",
@@ -585,7 +695,7 @@
                       "path":  "roms/GAME BOY ADVANCE/Spider-Man 3 (Spain).gba",
                       "size":  8388608,
                       "added":  "2026-11-20",
-                      "title":  "Spider-Man 3",
+                      "title":  "",
                       "tags":  [
                                    "ACCIÓN",
                                    "SUPERHÉROES"

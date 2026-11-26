@@ -5,4 +5,14 @@ covers/SUPER NINTENDO/Legend of Zelda, The - A Link to the Past (U) [!].png
 covers/SUPER NINTENDO/Super Bomberman 5 Gold Cartridge (J) [!].png
 covers/SUPER NINTENDO/Super Mario Kart (U) [!].png
 
-JUEGOS SIN ETIQUETAS MANUALES (0). Es opcional: la pantalla ya muestra la consola y la categoria automatica.
+JUEGOS SIN ETIQUETAS MANUALES (10). Es opcional: la pantalla ya muestra la consola y la categoria automatica.
+kof2000
+kof2001
+kof2002
+kof2003
+kof94
+kof95
+kof96
+kof97
+kof98
+kof99
